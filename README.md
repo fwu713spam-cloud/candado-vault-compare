@@ -1,2 +1,3 @@
-# candado-vault-compare
-Interactive Candado vs photo-vault feature comparison
+# Candado Vault Feature Comparison
+
+Open the GitHub Pages site for the interactive matrix.
